@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "429545642424",
+    "project_id": "gdsctaskapp",
+    "storage_bucket": "gdsctaskapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429545642424:android:047b7b4fc43e40b981d74d",
+        "android_client_info": {
+          "package_name": "com.example.gdsc2022task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429545642424-guj358i05nvggbe81e66ta7mkeq48lkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMQuVfzeo9-_glKGWf_u5oXoC8zaQH9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429545642424-guj358i05nvggbe81e66ta7mkeq48lkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
